@@ -20,7 +20,7 @@ The goal of this repository is to:
 
 ## 🖼️ Python Logo
 
-![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
+![Python Logo](images/python_logo.png)
 
 ---
 
@@ -28,13 +28,6 @@ The goal of this repository is to:
 - Keep track of examples I write while practicing Python  
 - Serve as a quick reference for Python basics  
 - Share scripts that might be useful for other learners  
-
----
-
-## 📌 Resources
-- [Official Python Website](https://www.python.org/)  
-- [Python Docs](https://docs.python.org/3/)  
-- [W3Schools Python Tutorial](https://www.w3schools.com/python/)  
 
 ---
 
