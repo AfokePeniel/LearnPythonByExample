@@ -1,4 +1,4 @@
-# Python My Example 🐍
+# Python By Example 🐍
 
 This repository contains my personal Python examples, practice scripts, and experiments as I continue learning and exploring Python programming.  
 
@@ -18,9 +18,9 @@ The goal of this repository is to:
 
 ---
 
-## 🖼️ Python Logo
+## 🖼️ Book Logo
 
-![Python Logo](images/python_logo.png)
+![Book Logo](images/python_logo.png)
 
 ---
 
